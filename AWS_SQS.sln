@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS_SQS", "AWS_SQS\AWS_SQS.csproj", "{61EFB992-C3E7-47E3-A4F0-1D0CCA3F3ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EFB992-C3E7-47E3-A4F0-1D0CCA3F3ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EFB992-C3E7-47E3-A4F0-1D0CCA3F3ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EFB992-C3E7-47E3-A4F0-1D0CCA3F3ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EFB992-C3E7-47E3-A4F0-1D0CCA3F3ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
